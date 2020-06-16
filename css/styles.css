@@ -37,3 +37,19 @@
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.btn-manage {
+    position: relative;
+    margin-top: 10px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.h3_cstm {
+    background-color:rgb(255, 217, 0);
+    color: white;
+    text-align: left;
+    padding-left: 20px;
+}
